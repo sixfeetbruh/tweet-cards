@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktweet_zone=self.webpackChunktweet_zone||[]).push([[688],{688:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var r,c,o=t(168),i=t(444),s=t(839),u=i.ZP.section(r||(r=(0,o.Z)(["\n  padding: 100px 0;\n"]))),a=i.ZP.h1(c||(c=(0,o.Z)(["\n  font-size: 30px;\n  font-weight: 900;\n  text-align: center;\n  color: ",";\n"])),s.O.userImageBgrnd),d=t(329),f=function(){return(0,d.jsx)(u,{children:(0,d.jsx)(a,{children:"welcome to tweet-cards!"})})}}}]);
+//# sourceMappingURL=688.ee6f941d.chunk.js.map
