@@ -112,6 +112,11 @@ const ProfileButton = styled.button`
   background: ${colors.btnBgrnd};
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
   border-radius: 10.3108px;
+  transition: background 250ms ease-out;
+
+    &:hover {
+      background: ${colors.btnActive};
+  }
 
   &.active {
     background: ${colors.btnActive};
